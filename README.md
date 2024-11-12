@@ -2,7 +2,7 @@
 
 This repository contains an end-to-end (E2E) test automation framework built with TypeScript and Playwright, designed to test e-commerce applications using data-driven approach.
 
-## Test status badge: [![Playwright](https://github.com/kryvchenko/loop-qa.git/actions/workflows/playwright.yml/badge.svg)](https://github.com/kryvchenko/loop-qa.git/actions/workflows/playwright.yml)
+## Test status badge: [![Playwright](https://github.com/kryvchenko/loop-qa/actions/workflows/playwright.yml/badge.svg)](https://github.com/kryvchenko/loop-qa.git/actions/workflows/playwright.yml)
 
 ## Features
 
